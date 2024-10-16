@@ -1,0 +1,25 @@
+Features
+
+One Page Template
+On-hover Effect
+Sticky Navigation
+Smooth Animated Scroll
+Social Media Icons
+Parallax Background
+Progress Bars
+Timeline Section
+Lightbox Gallery
+Custom Icons
+Carousel Slider
+Fun Facts Counters
+Working Contact Form
+Detailed Footer
+Back To Top Button
+ 
+
+In the box
+2 HTML Files
+7 CSS Files
+5 Javascript Files
+1 PHP File
+Demo Images
